@@ -5,7 +5,7 @@ public class program16 {
         double radius=2.14;
 
         double area=pi*radius*radius;
-       double circumference=2*radius;
+        double circumference=2*radius;
 
         System.out.println("area of circle:"+ area);
         System.out.println("circumference of circle :"+circumference);
